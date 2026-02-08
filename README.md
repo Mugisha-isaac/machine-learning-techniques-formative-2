@@ -66,7 +66,7 @@ The implementations provide a thorough comparison of performance, computational 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Mugisha-isaac/machine-learning-techniques-formative-2
 cd machine-learning-techniques-formative-2
 ```
 
